@@ -1,0 +1,7 @@
+  <!-- Navigation -->
+
+		<div th:include="administrador/template_admin.html::header"></div>
+
+		
+		  <!-- Footer -->
+    <div th:include="administrador/template_admin.html::footer"></div>
